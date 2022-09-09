@@ -28,3 +28,9 @@ mkdir -p src/utils config
 touch dvc.yaml setup.py README.md src/__init__.py src/utils/__init__.py params.yaml congif/config.yaml .gitignore
 ```
 
+## install src
+```bash
+pip install -e .
+
+```
+
